@@ -1,3 +1,7 @@
 print("Royala Bakhtiyarova")
 print("September 15, 2026")
 print("I want to learn Python, because Python has become an important asset in Cybersecurity. Through understandig algorithm mindset, I can positively contribute to my career growth")
+#Python is mostly an interpreted language, even though it consists of elements of each interpretation and compilation. In Python, the supply code is written in undeniable textual content documents with a .Py extension. When a Python script is finished, step one is lexical evaluation, also called tokeniztion. In this step, the interpreter reads the source code and breaks it down into tokens, together with keywords, operators, and identifiers. After lexical evaluation, the interpreter performs parsing, which involves studying the series of tokens to determine the syntatic structure of the code.
+#Once the parse tree is generated, the interpreter interprets it into an intermediate representation called bytecode.The compilation to bytecode is accomplished by the Python compiler.
+#In end, Python is known as an interpreted language due to the fact its source code is done line through line by way of an interpreter at runtime.
+#However, Python additionally contains factors of compilation, consisting of lexical analysis, parsing, and bytecode compilation.
